@@ -1,0 +1,1 @@
+CREATE TABLE admin (id int primary key, name varchar, password varchar);
